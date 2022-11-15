@@ -5,7 +5,6 @@ library(lme4)
 pilot <- read.table("pilot.txt", header = T, sep = "\t", quote = "", stringsAsFactors = T)
 summary(pilot)
 
-
 data_caus <- pilot[, c("Genus", "Macroarea_origin", "Total_users", "L2Prop", "SO_Form", "SO_entropy", "Verb")]
 
 random_df <- data_caus[, 1:2]
@@ -16,9 +15,14 @@ fixed_df$Total_users <- log(fixed_df$Total_users)
 fixed_df$L2Prop[fixed_df$L2Prop == 0] <- 0.001
 fixed_df$L2Prop[fixed_df$L2Prop == 1] <- 0.999
 
-fixed_df$SO_entropy[fixed_df$SO_entropy == 0] <- 0.001
-fixed_df$SO_entropy[fixed_df$SO_entropy == 1] <- 0.999
+fixed_df$SO_entropy[fixed_df$SO_entropy == 0] <- 0.00001
+fixed_df$SO_entropy[fixed_df$SO_entropy == 1] <- 0.99999
 
+fixed_df$Verb <- as.character(fixed_df$Verb)
+fixed_df$Verb[fixed_df$Verb != "Final"] <- "NonFinal" 
+fixed_df$Verb <- as.factor(fixed_df$Verb)
+
+#With Genus and Area as random effects
 Genus <- data_caus$Genus
 Area <- data_caus$Macroarea_origin
 
@@ -30,7 +34,7 @@ fixed_df_numeric <- data.frame(Total_users = fixed_df$Total_users,
                                 Verb = as.numeric(fixed_df$Verb))
 suffStat <- list(C = cor(fixed_df_numeric), n = nrow(fixed_df)) 
 
-regressionTest <- function(x_ind, y_ind, S_inds, suffStat, cor_method = "spearman"){
+regressionTest <- function(x_ind, y_ind, S_inds, suffStat, cor_method = "pearson"){
 x_name <- colnames(fixed_df)[x_ind]
 y_name <- colnames(fixed_df)[y_ind]
 print (x_name)
@@ -51,7 +55,7 @@ else {
 }
 if (is.numeric(fixed_df[, x_ind])){
 
- if (all(fixed_df[, x_ind]) > 0 & all(fixed_df[, x_ind]) < 1)
+ if (min(fixed_df[, x_ind]) > 0 & max(fixed_df[, x_ind]) < 1)
 {fitXS <- glmmTMB(formula_XS, data = fixed_df, family = beta_family)}  
 
   else {fitXS <- lmer(formula_XS, data = fixed_df, "REML" = TRUE)}
@@ -60,23 +64,23 @@ if (is.numeric(fixed_df[, x_ind])){
 else{
 fitXS <- glmer(formula_XS, data = fixed_df, family = binomial)
 }
-
 sink(file = "regression_logfile.txt",
      append = TRUE, type = "output")
 print(summary(fitXS))
 sink()
 
 if (is.numeric(fixed_df[, y_ind])){
-  if (all(fixed_df[, y_ind]) > 0 & all(fixed_df[, y_ind]) < 1)
-  {fitYS <- glmmTMB(formula_YS, data = fixed_df, family = beta_family)}   
-
+  if (min(fixed_df[, y_ind]) > 0 & max(fixed_df[, y_ind]) < 1)
+  {
+    fitYS <- glmmTMB(formula_YS, data = fixed_df, family = beta_family)}   
+else{
   fitYS <- lmer(formula_YS, data = fixed_df, "REML" = TRUE)
 }
+}  
 
 else{
-fitYS <- glmer(formula_YS, data = fixed_df, family = binomial)
-}
-
+  fitYS <- glmer(formula_YS, data = fixed_df, family = binomial)
+  }
 sink(file = "regression_logfile.txt",
      append = TRUE, type = "output")
 print(summary(fitYS))
