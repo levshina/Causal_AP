@@ -1,5 +1,6 @@
 library(pcalg)
 library(glmmTMB)
+library(lme4)
 
 pilot <- read.table("Data/pilot.txt", header = T, sep = "\t", quote = "", stringsAsFactors = T)
 summary(pilot)
@@ -21,7 +22,6 @@ fixed_df$SO_entropy[fixed_df$SO_entropy == 1] <- 0.999
 Genus <- data_caus$Genus
 Area <- data_caus$Macroarea_origin
 
-library(lme4)
 #to create suffStat$C as a correlation matrix (it doesn't really play a role):
 fixed_df_numeric <- data.frame(Total_users = fixed_df$Total_users, 
                                  L2Prop = fixed_df$L2Prop,
