@@ -1,0 +1,113 @@
+Language	ISO639_3	WALScode	Macroarea_origin	Glottocode	Family	Genus	Total_users	L2Prop	Contact	SO_Form	SO_entropy	Verb
+Afrikaans 	afr	afr	Africa	afri1274	Indo-European	Germanic	17631780	0.584172443	No	Same	0.125312309	Final
+Amharic 	amh	amh	Africa	amha1245	Afro-Asiatic	Semitic	57466560	0.436775753	No	Different	0.698700353	Final
+Anufo	cko	anu	Africa	anuf1239	Niger-Congo	Tano	177200	0.115681234	No	Same	0.462749059	Middle
+Awadhi	awa	awd	Eurasia	awad1243	Indo-European	Indic	4397400	0.010324283	No	Same	0.503258335	Final
+Azerbaijani (North)	azj	NA	Eurasia	nort2697	Altaic	Turkic	15473270	0.517021	No	Different	0.751286577	Final
+Bambara 	bam	bam	Africa	bamb1269	Mande	Western Mande	14183340	0.705052548	No	Same	0.453716339	Final
+Belarusian	bel	blr	Eurasia	bela1254	Indo-European	Slavic	3923450	0.6091578	No	Different	0.586207104	Middle
+Belize Creole English	bzj	mce	Americas	beli1260	Other	Creoles & Pidgins	170000	0.303797468	Yes	Same	0.594793659	Middle
+Bislama	bis	bsm	Papunesia	bisl1239	Other	Creoles & Pidgins	210000	0.952381	Yes	Same	0.721928095	Middle
+Buginese 	bug	bug	Papunesia	bugi1244	Austronesian	South Sulawesi	4398800	0.113667364	No	Same	0.631263018	Middle
+Bulgarian	bul	bul	Eurasia	bulg1262	Indo-European	Slavic	8280790	0.207463713	No	Different	0.361433542	Middle
+Burmese 	mya	brm	Eurasia	nucl1310	Sino-Tibetan	Burmese-Lolo	42953240	0.232811308	No	Different	0.953317131	Final
+Catalan 	cat	ctl	Eurasia	stan1289	Indo-European	Romance	9241310	0.551869811	No	Same	0.223835084	Middle
+Chamorro	cha	cha	Papunesia	cham1312	Austronesian	Chamorro	64300	0.282087447	No	Same	0.764204507	Initial
+Chinese,Mandarin 	cmn	mnd	Eurasia	mand1415	Sino-Tibetan	Chinese	1118584040	0.1776603	No	Same	0	Middle
+Croatian 	hrv	NA	Eurasia	croa1245	Indo-European	Slavic	6765010	0.036359219	No	Different	0.435523438	Middle
+Dutch	nld	dut	Eurasia	dutc1256	Indo-European	Germanic	24443930	0.06566047	No	Same	0.310908678	Middle
+Eastern Oromo	hae	orh	Africa	east2652	Afro-Asiatic	Lowland East Cushitic	27500000	0.072727273	No	Different	0.66959206	Final
+Ekegusii	guz	gus	Africa	gusi1247	Niger-Congo	Bantu	3201470	0.156178256	No	Same	0.561752608	Middle
+English 	eng	eng	Eurasia	stan1293	Indo-European	Germanic	1452471410	0.7432913	No	Same	0.102422758	Middle
+Esperanto 	epo	NA	Eurasia	espe1235	Other	Artificial	101000	0.990099	Yes	Different	0.382807895	Middle
+Estonian	ekk	est	Eurasia	esto1258	Uralic	Finnic	1341330	0.049950422	No	Different	0.654739489	Middle
+Ewe 	ewe	ewe	Africa	ewee1241	Niger-Congo	Kwa	5525320	0.090492496	No	Same	0.79732651	Middle
+Fijian 	fij	fij	Papunesia	fiji1243	Austronesian	Oceanic	654710	0.488766019	No	Same	0.845350937	Initial
+Finnish	fin	fin	Eurasia	finn1318	Uralic	Finnic	5679640	0.115500278	No	Different	0.403343621	Middle
+French 	fra	fre	Eurasia	stan1290	Indo-European	Romance	274067040	0.7085831	No	Same	0.032641136	Middle
+German 	deu	ger	Eurasia	stan1295	Indo-European	Germanic	134624440	0.438644722	No	Different	0.422270019	Final
+Greek 	ell	grk	Eurasia	mode1248	Indo-European	Greek	13288970	0.403132525	No	Different	0.365473875	Middle
+Gujarati	guj	guj	Eurasia	guja1252	Indo-European	Indic	61953120	0.08070619	No	Different	0.650022422	Final
+Hausa 	hau	hau	Africa	haus1257	Afro-Asiatic	West Chadic	77063700	0.341185279	No	Same	0.40217919	Middle
+Hawai'i Creole English	hwc	hwc	Americas	hawa1247	Other	Creoles & Pidgins	1000000	0.4	Yes	Same	0.453716339	Middle
+Hawaiian	haw	haw	Papunesia	hawa1245	Austronesian	Oceanic	8000	0.75	No	Same	0.339486	Middle
+Hebrew	heb	heb	Eurasia	hebr1245	Afro-Asiatic	Semitic	9387050	0.3515481	No	Different	0.264880402	Middle
+Hiligaynon 	hil	hil	Papunesia	hili1240	Austronesian	Greater Central Philippine	6246880	0.392908481	No	Different	0.703731111	Initial
+Hindi	hin	hin	Eurasia	hind1269	Indo-European	Indic	602198470	0.428873391	No	Different	0.339622746	Final
+Hiri Motu	hmo	NA	Papunesia	hiri1237	Other	Creoles & Pidgins	95000	1	Yes	Same	0.98337619	Final
+Hungarian	hun	hun	Eurasia	hung1274	Uralic	Ugric	12560490	0.005404864	No	Different	0.856233839	Middle
+Iban	iba	iba	Eurasia	iban1264	Austronesian	Malayo-Sumbawan	1482800	0.4720798	No	Same	0.387428405	Middle
+Icelandic	isl	ice	Eurasia	icel1247	Indo-European	Germanic	328960	0.034292012	No	Different	0.316074233	Middle
+Igbo	ibo	igb	Africa	nucl1417	Niger-Congo	Igboid	30775190	0.01098421	No	Different	0.415324406	Middle
+Ilokano 	ilo	ilo	Papunesia	ilok1237	Austronesian	Northern Luzon	6482100	0.238383964	No	Same	0.749595257	Initial
+Indonesian	ind	ind	Papunesia	indo1316	Austronesian	Malayo-Sumbawan	198996550	0.78076228	No	Same	0.007098398	Middle
+Irish Gaelic	gle	iri	Eurasia	iris1253	Indo-European	Celtic	1200290	0.858125953	No	Same	0	Initial
+Italian	ita	ita	Eurasia	ital1282	Indo-European	Romance	67901630	0.045361209	No	Same	0.282676224	Middle
+Japanese 	jpn	jpn	Eurasia	nucl1643	Japanese	Japanese	125399270	0.113667364	No	Different	0.252601817	Final
+Jukun Takum	jbu	juk	Africa	juku1254	Niger-Congo	Jukunoid	42440	0.942507069	No	Same	0.799759411	Middle
+Jula 	dyu	dyu	Africa	dyul1238	Mande	Western Mande	12504000	0.821977	No	Same	0.294615206	Final
+Kafa	kbr	kef	Africa	kafa1242	Afro-Asiatic	Ta-Ne-Omotic	1236700	0.037761785	No	Different	0.997772472	Final
+Kambaata	ktb	NA	Africa	kamb1316	Afro-Asiatic	East Cushitic	822300	0.096436824	No	Different	0.76124015	Final
+Kannada 	kan	knd	Eurasia	nucl1305	Dravidian	Southern Dravidian	58644310	0.25577929	No	Different	0.789271272	Final
+Kono Konnoh	kno	NA	Africa	kono1268	Mande	Western Mande	341000	0.073313783	No	Different	0.41381685	Final
+Konso Af Kareti	kxc	NA	Africa	kons1243	Afro-Asiatic	East Cushitic	248960	0.022734576	No	Same	0.765243628	Final
+Koongo	kng	kon	Africa	koon1244	Niger-Congo	Bantoid	11236500	0.444978419	No	Same	0.466133283	Middle
+Koorete Amaarro	kqy	kjr	Africa	koor1239	Afro-Asiatic	Ta-Ne-Omotic	159370	0.014871055	No	Different	0.999980634	Final
+Krio	kri	NA	Africa	krio1253	Other	Creoles & Pidgins	8237900	0.900714988	Yes	Same	0.566509507	Middle
+Kriol	rop	kfc	Papunesia	krio1252	Other	Creoles & Pidgins	17160	0.582750583	Yes	Same	0.60365225	Middle
+Kuanua (Tolai)	ksd	tla	Papunesia	kuan1248	Austronesian	Oceanic	148000	0.1891892	No	Same	0.283397894	Middle
+Latvian	lav	lat	Eurasia	latv1249	Indo-European	Baltic	1997500	0.231289111	No	Different	0.721097874	Middle
+Lithuanian	lit	NA	Eurasia	lith1251	Indo-European	Baltic	2909390	0.177905606	No	Different	0.733002265	Middle
+Makasar 	mak	mks	Papunesia	maka1311	Austronesian	South Sulawesi	2110000	0.582750583	No	Same	0.730926378	Initial
+Malay Malayu	zlm	myk	Eurasia	mala1479	Austronesian	Malayo-Sumbawan	19185470	0.156368335	No	Same	0.454521362	Middle
+Male	mdy	mle	Africa	male1284	Afro-Asiatic	Ta-Ne-Omotic	101430	0.066351178	No	Same	0.924724395	Final
+Maori	mri	mao	Papunesia	maor1246	Austronesian	Oceanic	159700	0.776398702	No	Different	0.721928095	Initial
+Marathi Maharashtra	mar	mhi	Eurasia	mara1378	Indo-European	Indic	99146310	0.161377665	No	Different	0	Final
+Morisyen	mfe	mcr	Africa	mori1278	Other	Creoles & Pidgins	1290000	0.1550388	Yes	Same	0.337290067	Middle
+Mwani Ibo	wmw	NA	Africa	mwan1247	Niger-Congo	Bantoid	166000	0.120481928	No	Same	0.417864262	Middle
+Naga, Angami	njm	agm	Eurasia	anga1288	Sino-Tibetan	Angami-Pochuri	183000	0.1639344	No	Same	0.271389588	Final
+Ndebele 	nbl	ndb	Africa	nort2795	Niger-Congo	Bantu	2490000	0.562248996	No	Same	0.650022422	Middle
+Nigerian Pidgin	pcm	NA	Africa	nige1257	Other	Creoles & Pidgins	120650000	0.961458765	Yes	Same	0.467139091	Middle
+Nuer Naath	nus	nue	Africa	nuer1246	Eastern Sudanic	Western Nilotic	1706280	0.000656399	No	Same	0.4816922	Final
+Nyanja (Chichewa)	nya	cic	Africa	nyan1308	Niger-Congo	Bantu	14380700	0.042644605	No	Same	0.648185111	Middle
+Papiamentu	pap	pap	Americas	papi1253	Other	Creoles & Pidgins	343100	0.058292043	Yes	Same	0.811278124	Middle
+Persian	pes	prs	Eurasia	west2369	Indo-European	Iranian	77377510	0.271396689	No	Different	0.177076712	Final
+Pijin	pis	NA	Papunesia	piji1239	Other	Creoles & Pidgins	324000	0.9259259	Yes	Same	0.129233775	Middle
+Polish	pol	pol	Eurasia	poli1260	Indo-European	Slavic	40629030	0.93373494	No	Different	0.582864616	Middle
+Portuguese 	por	por	Eurasia	port1283	Indo-European	Romance	257660250	0.09790412	No	Same	0.096772139	Middle
+Romanian 	ron	rom	Eurasia	roma1327	Indo-European	Romance	24054420	0.138848787	No	Different	0.145295445	Middle
+Russian 	rus	rus	Eurasia	russ1263	Indo-European	Slavic	258177060	0.403132525	No	Different	0.580878367	Middle
+Sango	sag	san	Africa	sang1328	Niger-Congo	Ubangi	5217000	0.8817328	No	Same	0.325551713	Middle
+Serbian 	srp	NA	Eurasia	serb1264	Indo-European	Slavic	10300476	0.523553357	No	Different	0.263265396	Middle
+Shona 	sna	shn	Africa	shon1251	Niger-Congo	Bantu	10865590	0.322117805	No	Same	0.551669992	Middle
+Sindhi 	snd	sdh	Eurasia	sind1272	Indo-European	Indic	33217150	0.387469129	No	Same	0.64072611	Final
+Slovak	slk	svk	Eurasia	slov1269	Indo-European	Slavic	7251080	0.282027	No	Different	0.637387499	Middle
+Slovenian	slv	slo	Eurasia	slov1268	Indo-European	Slavic	2229450	0.08253157	No	Different	0.68703321	Middle
+Somali	som	som	Africa	soma1255	Afro-Asiatic	Lowland East Cushitic	21930230	0.004359279	No	Same	0.568362534	Final
+Spanish 	spa	spa	Eurasia	stan1288	Indo-European	Romance	548333810	0.134274303	No	Different	0.188829749	Middle
+Sranan Tongo 	srn	sra	Americas	sran1240	Other	Creoles & Pidgins	669600	0.224014337	Yes	Same	0.529360865	Middle
+Suau	swp	NA	Papunesia	suau1242	Austronesian	Oceanic	20810	0.6246997	No	Same	0.996665728	Final
+Swahili, Tanzania	swh	swa	Africa	swah1253	Niger-Congo	Bantoid	71416500	0.775171004	No	Same	0.788513161	Middle
+Swati	ssw	swt	Africa	swat1243	Niger-Congo	Bantu	4700000	0.5106383	No	Same	0.228538144	Middle
+Swedish	swe	swe	Eurasia	swed1254	Indo-European	Germanic	13074200	0.2409325	No	Same	0.197520731	Middle
+Tagalog(including Filipino)	tgl	tag	Papunesia	taga1270	Austronesian	Greater Central Philippine	82312160	0.551869811	No	Same	0.7343713	Initial
+Tamil	tam	tml	Eurasia	tami1289	Dravidian	Dravidian	86430500	0.09255992	No	Different	0.963167245	Final
+Telugu	tel	tel	Eurasia	telu1262	Dravidian	Dravidian	95730900	0.1357973	No	Different	0.605186577	Final
+Temne 	tem	tne	Africa	timn1235	Niger-Congo	Northern Mel	2070000	0.115942029	No	Same	0.398124879	Middle
+Tigrinya 	tir	tig	Africa	tigr1271	Afro-Asiatic	Semitic	10004940	0.024742012	No	Different	0.930320525	Final
+Tok Pisin (Melanesian English)	tpi	tpi	Papunesia	tokp1240	Other	Creoles & Pidgins	4125740	0.969523043	Yes	Same	0.423680572	Middle
+Tsonga	tso	tsn	Africa	tson1249	Niger-Congo	Bantu	10003500	0.339881	No	Same	0.353359335	Middle
+Tswana 	tsn	tsw	Africa	tswa1253	Niger-Congo	Bantu	13745730	0.571086439	No	Same	0.398459274	Middle
+Tucano	tuo	tuc	Americas	tuca1252	Tucanoan	Tucanoan	11620	0.6217765	No	Different	0.625262405	Final
+Turkish	tur	tur	Eurasia	nuc1301	Altaic	Turkic	88098480	0.06663339	No	Different	0.320417188	Final
+Ukrainian	ukr	urk	Eurasia	ukra1253	Indo-European	Slavic	33230530	0.1745383	No	Different	0.583520852	Middle
+Urdu	urd	urd	Eurasia	urdu1245	Indo-European	Indic	231295440	0.6962775	No	Different	0.396144055	Final
+Venda	ven	ven	Africa	vend1245	Niger-Congo	Bantu	3001400	0.5664023	No	Same	0.543564443	Middle
+Vietnamese 	vie	vie	Eurasia	viet1252	Austro-Asiatic	Viet-Muong	85342190	0.008729563	No	Same	0.235193382	Middle
+Welsh	cym	wel	Eurasia	wels1247	Indo-European	Celtic	573050	0.460884354	No	Same	0	Initial
+Wik-Mungkan	wim	wmu	Papunesia	wikm1247	Pama-Nyungan	Northern Pama-Nyungan	1650	0.7272727	No	Different	0.485460761	Final
+Wolaytta (Welamo)	wal	wly	Africa	wola1242	Afro-Asiatic	Ta-Ne-Omotic	2469800	0.036359219	No	Different	0.632130278	Final
+Wolof	wol	wlf	Africa	nucl1347	Niger-Congo	Wolof	12266290	0.516863697	No	Different	0.074149484	Middle
+Xhosa	xho	xho	Africa	xhos1239	Niger-Congo	Bantu	19216300	0.5724307	No	Same	0.783776947	Middle
+Yoruba	yor	yor	Africa	yoru1245	Niger-Congo	Defoid	45612560	0.043847572	No	Same	0.447907859	Middle
+Zulu 	zul	zul	Africa	zulu1248	Niger-Congo	Bantoid	27804600	0.564654769	No	Same	0.503258335	Middle
