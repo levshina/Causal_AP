@@ -2,7 +2,7 @@ library(pcalg)
 library(glmmTMB)
 library(lme4)
 
-pilot <- read.table("Data/pilot.txt", header = T, sep = "\t", quote = "", stringsAsFactors = T)
+pilot <- read.table("pilot.txt", header = T, sep = "\t", quote = "", stringsAsFactors = T)
 summary(pilot)
 
 
