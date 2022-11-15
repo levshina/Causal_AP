@@ -1,8 +1,8 @@
 library(pcalg)
 library(glmmTMB)
 
-#pilot <- read.table("Data/pilot.txt", header = T, sep = "\t", quote = "", stringsAsFactors = T)
-#summary(pilot)
+pilot <- read.table("Data/pilot.txt", header = T, sep = "\t", quote = "", stringsAsFactors = T)
+summary(pilot)
 
 
 data_caus <- pilot[, c("Genus", "Macroarea_origin", "Total_users", "L2Prop", "SO_Form", "SO_entropy", "Verb")]
